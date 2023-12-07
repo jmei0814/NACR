@@ -1,5 +1,5 @@
 # NACR
-This is the codebase for the autonomous NACR robot that I built and coded in November 2023.
+This is the codebase for the autonomous 1 pound robot NACR (Not A Combat Robot) that I built and coded in November 2023.
 
 The code is micropython for a Rasberry Pi Pico, and uses 2 sensors, the [Vl53l5CX time of flight sensor](https://www.tindie.com/products/onehorse/vl53l5cx-ranging-camera/), as well as the [MP6050 gyroscopic sensor](https://www.adafruit.com/product/3886).
 
